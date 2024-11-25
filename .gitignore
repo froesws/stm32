@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+.metadata/
+*/debug/*
+
+# Ignorar arquivos e pastas do Eclipse
+.metadata/
+mcu_lab/Debug/
+*.launch
+
+
+
